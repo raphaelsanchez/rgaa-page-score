@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Système
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+.vscode/
+
+# Logs & cache
+*.log
+.cache/
