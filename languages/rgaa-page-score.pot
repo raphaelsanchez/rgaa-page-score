@@ -1,0 +1,119 @@
+# Copyright (C) 2026 Raphael Sanchez
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: RGAA Page Score 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rgaa-page-score\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-02-13T00:48:19+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: rgaa-page-score\n"
+
+#. Plugin Name of the plugin
+#: rgaa-page-score.php
+#: includes/class-rgaa-metabox.php:35
+msgid "RGAA Page Score"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: rgaa-page-score.php
+msgid "https://github.com/raphaelsanchez/rgaa-page-score"
+msgstr ""
+
+#. Description of the plugin
+#: rgaa-page-score.php
+msgid "Display a RGAA accessibility score in the pages list and a meta box in the editor with improvement suggestions."
+msgstr ""
+
+#. Author of the plugin
+#: rgaa-page-score.php
+msgid "Raphael Sanchez"
+msgstr ""
+
+#. Author URI of the plugin
+#: rgaa-page-score.php
+msgid "https://raphaelsanchez.design"
+msgstr ""
+
+#: includes/class-rgaa-admin-column.php:83
+#: includes/class-rgaa-metabox.php:85
+msgid "Not analyzed"
+msgstr ""
+
+#: includes/class-rgaa-admin-column.php:123
+#: includes/class-rgaa-metabox.php:188
+msgid "Compliant"
+msgstr ""
+
+#: includes/class-rgaa-admin-column.php:126
+#: includes/class-rgaa-metabox.php:191
+msgid "Minor issues"
+msgstr ""
+
+#: includes/class-rgaa-admin-column.php:128
+#: includes/class-rgaa-metabox.php:193
+msgid "Major issues"
+msgstr ""
+
+#: includes/class-rgaa-metabox.php:88
+msgid "Save the post or click \"Analyze\" to get the score."
+msgstr ""
+
+#: includes/class-rgaa-metabox.php:93
+msgid "Analyze"
+msgstr ""
+
+#: includes/class-rgaa-metabox.php:101
+msgid "Score"
+msgstr ""
+
+#: includes/class-rgaa-metabox.php:106
+msgid "Errors"
+msgstr ""
+
+#: includes/class-rgaa-metabox.php:108
+msgid "issue detected"
+msgid_plural "issues detected"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-rgaa-metabox.php:113
+#: includes/class-rgaa-metabox.php:218
+#: includes/class-rgaa-metabox.php:222
+msgid "Re-analyze"
+msgstr ""
+
+#: includes/class-rgaa-metabox.php:122
+msgid "Improvement suggestions"
+msgstr ""
+
+#. translators: %s: RGAA criterion
+#: includes/class-rgaa-metabox.php:130
+#, php-format
+msgid "Criterion %s"
+msgstr ""
+
+#: includes/class-rgaa-metabox.php:143
+msgid "View RGAA methodology"
+msgstr ""
+
+#: includes/class-rgaa-metabox.php:153
+msgid "No issues detected automatically. Some criteria require manual verification."
+msgstr ""
+
+#: includes/class-rgaa-metabox.php:157
+msgid "No issues detected. Automated tests are compliant."
+msgstr ""
+
+#: includes/class-rgaa-metabox.php:209
+msgid "Analyzing…"
+msgstr ""
+
+#: includes/class-rgaa-post-meta.php:64
+msgid "Permission denied."
+msgstr ""
