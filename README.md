@@ -4,6 +4,9 @@
 
 Plugin WordPress affichant un score d'accessibilité RGAA dans la liste des pages et une meta box dans l'éditeur avec les pistes d'amélioration.
 
+![](assets/images/screenshot-1.png)
+![](assets/images/screenshot-2.png)
+
 ## Objectif
 
 RGAA Page Score vise à aider les éditeurs et développeurs à améliorer l'accessibilité de leurs contenus WordPress en :
